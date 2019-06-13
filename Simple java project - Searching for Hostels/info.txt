@@ -1,0 +1,8 @@
+It is a simple project made using basic concepts of java and JAVA SWINGS.
+Following things are included from java swings:
+-> Java JButton
+-> Java JLabel
+-> Java JCheckbox
+-> Java JCheckBox
+-> Java JComboBox
+-> Java JFrame
